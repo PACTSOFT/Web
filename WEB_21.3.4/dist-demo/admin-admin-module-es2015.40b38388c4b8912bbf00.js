@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[90],{jkDv:function(n,o,t){"use strict";t.r(o),t.d(o,"AdminModule",(function(){return d}));var r=t("ofXK"),e=t("PCNd"),c=t("3Pt+"),i=t("44PX"),u=t("fXoL");let d=(()=>{class n{}return n.\u0275mod=u.Rb({type:n}),n.\u0275inj=u.Qb({factory:function(o){return new(o||n)},imports:[[r.c,c.m,c.C,i.d.forRoot(),e.a]]}),n})()}}]);

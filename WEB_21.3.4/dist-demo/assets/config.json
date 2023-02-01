@@ -1,0 +1,23 @@
+{ 
+    "apiURL" :"http://localhost:48516/", 
+    "imgURL":"http://192.168.1.146/webpath/",
+    "LoginImage":"",
+    "HideLoginText":"0",
+    "LoginCompanyIndex": "92",
+    "LoginByDimension": "NO",
+    "logLevel": 5,
+    "logLevel_Comment":"Set 1-INFO, 2-DEBUG, 3-LOG, 4-WARN, 5-ERROR, 6-OFF",
+    "PaddingRight":"6px",
+    "ListViewCache":"411,35",
+    "GSP_APIURLAUTH": "https://gsp.adaequare.com/gsp/authenticate?grant_type=token",
+    "GSP_APIURL": "https://gsp.adaequare.com/test/enriched/returns",
+    "gspappid": "Uxoqg0SeH2Pd4y2zYxz9MRqnEo5gznJn5y/tNihVGd9B+LRqN/aS0A==",
+    "GOLoc_APIKey": "5da397a007144f4dbb0f0c1f4097e3d1",
+    "GOLoc_APIURL": "https://api.opencagedata.com/geocode/v1/json?q=",    
+    "EnableGOLOC": "Yes",
+    "gspappsecret": "jphHi4lJ9aloyeGdqmPyCtQfiWNjGlt4A5enB+Ks7EcbGYSmUumD7A==",
+    "GSTVersion": "GST3.0.4",
+    "username": "MH_NT_TP491",
+    "gstin": "27BCBMH4234B1ZE",
+    "otp": "575757"
+}
