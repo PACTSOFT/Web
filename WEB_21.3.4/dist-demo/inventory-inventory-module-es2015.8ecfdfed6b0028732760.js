@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[176],{cLqD:function(n,o,t){"use strict";t.r(o),t.d(o,"InventoryModule",(function(){return i}));var r=t("ofXK"),e=t("3Pt+"),c=t("PCNd"),u=t("fXoL");let i=(()=>{class n{}return n.\u0275mod=u.Rb({type:n}),n.\u0275inj=u.Qb({factory:function(o){return new(o||n)},imports:[[r.c,e.m,e.C,c.a]]}),n})()}}]);
